@@ -1,0 +1,162 @@
+juin 20, 2021 10:38:04 PM com.example.LogProducer log
+INFOS: 
+----------------
+Quote{bid=94.01912082638783, ask=95.3869303035246}
+y10rate=0.5562611537136809
+price=807898.1748346979
+LET'S BUY ! 
+----------------
+juin 20, 2021 10:38:05 PM com.example.LogProducer log
+INFOS: 
+----------------
+DON'T BUY !
+----------------
+
+juin 20, 2021 10:38:06 PM com.example.LogProducer log
+INFOS: 
+----------------
+Quote{bid=94.36876940531974, ask=95.07595727219268}
+y10rate=0.5562952089825737
+price=807914.5854258232
+LET'S BUY ! 
+----------------
+juin 20, 2021 10:38:06 PM com.example.LogProducer log
+INFOS: 
+----------------
+DON'T BUY !
+----------------
+
+juin 20, 2021 10:38:07 PM com.example.LogProducer log
+INFOS: 
+----------------
+Quote{bid=94.42319307248268, ask=94.9147211750885}
+y10rate=0.556200040373952
+price=807869.4921098371
+LET'S BUY ! 
+----------------
+juin 20, 2021 10:38:07 PM com.example.LogProducer log
+INFOS: 
+----------------
+Quote{bid=94.4233587969712, ask=94.8386469029336}
+y10rate=0.5562695705098993
+price=807881.400879926
+LET'S BUY ! 
+----------------
+juin 20, 2021 10:38:08 PM com.example.LogProducer log
+INFOS: 
+----------------
+DON'T BUY !
+----------------
+
+juin 20, 2021 10:38:08 PM com.example.LogProducer log
+INFOS: 
+----------------
+Quote{bid=94.26315375046985, ask=94.81852403948756}
+y10rate=0.5562079853809507
+price=807863.1084520788
+LET'S BUY ! 
+----------------
+juin 20, 2021 10:38:09 PM com.example.LogProducer log
+INFOS: 
+----------------
+Quote{bid=94.1251733577091, ask=94.83551610487481}
+y10rate=0.5562396140666496
+price=807833.1040315831
+LET'S BUY ! 
+----------------
+juin 20, 2021 10:38:09 PM com.example.LogProducer log
+INFOS: 
+----------------
+Quote{bid=94.19665914464466, ask=94.82957930347004}
+y10rate=0.556211374598089
+price=807887.8330734811
+LET'S BUY ! 
+----------------
+juin 20, 2021 10:38:10 PM com.example.LogProducer log
+INFOS: 
+----------------
+Quote{bid=94.0793566319434, ask=95.06604824410402}
+y10rate=0.556231242974992
+price=807917.6214885904
+LET'S BUY ! 
+----------------
+juin 20, 2021 10:38:10 PM com.example.LogProducer log
+INFOS: No Quotes found.
+juin 20, 2021 10:38:11 PM com.example.LogProducer log
+INFOS: 
+----------------
+DON'T BUY !
+----------------
+
+juin 20, 2021 10:38:11 PM com.example.LogProducer log
+INFOS: No Quotes found.
+juin 20, 2021 10:38:12 PM com.example.LogProducer log
+INFOS: 
+----------------
+DON'T BUY !
+----------------
+
+juin 20, 2021 10:38:12 PM com.example.LogProducer log
+INFOS: 
+----------------
+Quote{bid=94.2851395493336, ask=94.8581709761905}
+y10rate=0.5562590682068687
+price=807897.7792778758
+LET'S BUY ! 
+----------------
+juin 20, 2021 10:38:13 PM com.example.LogProducer log
+INFOS: No Quotes found.
+juin 20, 2021 10:38:13 PM com.example.LogProducer log
+INFOS: 
+----------------
+DON'T BUY !
+----------------
+
+juin 20, 2021 10:38:14 PM com.example.LogProducer log
+INFOS: 
+----------------
+DON'T BUY !
+----------------
+
+juin 20, 2021 10:38:14 PM com.example.LogProducer log
+INFOS: 
+----------------
+DON'T BUY !
+----------------
+
+juin 20, 2021 10:38:15 PM com.example.LogProducer log
+INFOS: 
+----------------
+Quote{bid=94.25799284105653, ask=94.95700713121683}
+y10rate=0.5562235990721933
+price=807876.0317790188
+LET'S BUY ! 
+----------------
+juin 20, 2021 10:38:15 PM com.example.LogProducer log
+INFOS: 
+----------------
+DON'T BUY !
+----------------
+
+juin 20, 2021 10:38:16 PM com.example.LogProducer log
+INFOS: 
+----------------
+DON'T BUY !
+----------------
+
+juin 20, 2021 10:38:16 PM com.example.LogProducer log
+INFOS: 
+----------------
+Quote{bid=94.42188812492346, ask=94.94133729834341}
+y10rate=0.556258577645954
+price=807833.1321888322
+LET'S BUY ! 
+----------------
+juin 20, 2021 10:38:17 PM com.example.LogProducer log
+INFOS: 
+----------------
+Quote{bid=94.30066879054526, ask=94.89515747061432}
+y10rate=0.556205159242165
+price=807899.2908425914
+LET'S BUY ! 
+----------------
